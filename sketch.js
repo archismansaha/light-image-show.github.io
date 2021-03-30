@@ -10,7 +10,7 @@ function preload() {
 function setup() {
   createCanvas(img.height,img.width);
   pixelDensity(1);
-  frameRate(30);
+  frameRate(40);
 }
 
 function draw() {
